@@ -1,6 +1,4 @@
-# Hi there 👋 I'm Havocx
-
-**Developer | []**  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Havocx)](https://git.io/typing-svg)
 
 ---
 
@@ -21,26 +19,18 @@
 ---
 
 ## 🔥 Recent Projects
-| Project | Description | Tech Stack | Stars |
-|---------|-------------|------------|-------|
-|  |
-|  |
+| Project |     Description     |               Tech Stack              |
+|---------|---------------------|---------------------------------------|
+| Nexoura | AI Business Automation | Python, Django, React, Postgres, ML| 
 
 ---
 
 ## 📈 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Havocx01&theme=dark)](https://git.io/streak-stats)  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Havocx01=yourusername&show_icons=true&theme=radical&hide_title=true)
 
----
+![Havocx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Havocx01&show_icons=true&bg_color=00000000)
 
-## ✍️ Latest Blog Posts
-<!-- Replace with your blog RSS feed or manual links -->
-- []()
-
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=Havocx01&theme=dark&hide_border=true&background=000000&fire=0C7AEB&ring=0C7AEB&currStreakLabel=0C7AEB)](https://git.io/streak-stats)
 
 ## 💬
 - 📧 **Email**:
-- 💼 **LinkedIn**: []()
 - 🐦 **Twitter**: []()
