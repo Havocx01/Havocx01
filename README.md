@@ -27,10 +27,4 @@
 
 ## 📈 GitHub Stats
 
-![Havocx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Havocx01&show_icons=true&bg_color=00000000)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Havocx01&theme=dark&hide_border=true&background=000000&fire=0C7AEB&ring=0C7AEB&currStreakLabel=0C7AEB)](https://git.io/streak-stats)
-
-## 💬
-- 📧 **Email**:
-- 🐦 **Twitter**: []()
