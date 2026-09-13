@@ -16,15 +16,6 @@
 **DevOps & Tools:**  
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions)
 
----
-
-## 🔥 Recent Projects
-| Project |     Description     |               Tech Stack              |
-|---------|---------------------|---------------------------------------|
-| Nexoura | AI Business Automation | Python, Django, React, Postgres, ML| 
-
----
-
 ## 📈 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Havocx01&theme=dark&hide_border=true&background=000000&fire=0C7AEB&ring=0C7AEB&currStreakLabel=0C7AEB)](https://git.io/streak-stats)
